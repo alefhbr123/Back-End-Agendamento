@@ -20,7 +20,7 @@ Este é o repositório do backend do sistema de agendamentos, desenvolvido em No
 Abra o terminal e execute os comandos abaixo:
 
 ```bash
-git clone https://github.com/alefhbr123/agendamentos-front.git
+git clone https://github.com/alefhbr123/agendamentos-back.git
 cd agendamentos-front
 ```
 ## 2. Instale as dependências:
